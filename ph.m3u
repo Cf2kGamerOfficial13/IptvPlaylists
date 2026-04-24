@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTM3U
 
-#EXTINF:-1,NBA TV PHILIPPINES
-https://cdnsc01.mediaquest.com.ph/bpk-token/2ab@h5s4uzb0l0tgxdqjshtvhf3jt11xuhnohzf1gcaa/bpk-tv/cgnl_nba/default/index.mpd?bkm-query
+#EXTINF:-1,NBA TV USA
+https://v14.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=h5HvitHVEXRLhzAhv32Cjw&expires=1777064123&user_id=RmxFTjBpUWJVZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
 #EXTINF:-1,ANIME
 https://8846385a.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ3J1bmNoeXJvbGxfSExT/e0fcd9dd-afa7-45e4-badf-cd2de73eef75/0.m3u8
 #EXTINF:-1,CrunchyRoll
