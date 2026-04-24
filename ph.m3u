@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,NICKTOON
+https://v18.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=gTS4e4zAfK8coSuKx2B4gA&expires=1777068766&user_id=RmxFTjBpUWJVZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
 #EXTINF:-1,AMC
 https://v14.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=h7eXlU37pho0ebK-G_BUsw&expires=1777068257&user_id=RmxFTjBpUWJVZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
 #EXTINF:-1,NICK JR.-EAST
