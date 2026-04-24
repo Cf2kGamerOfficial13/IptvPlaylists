@@ -8,7 +8,7 @@ https://8846385a.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEct
 #EXTINF:-1,CrunchyRoll
 https://8846385a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ3J1bmNoeXJvbGxfSExT/playlist.m3u8
 #EXTINF:-1,TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #EXTINF:-1,NBA
 https://lobefaqelo649.s3.us-east-1.amazonaws.com/btsport_240p30.m3u8
 #EXTINF:-1,A2Z
