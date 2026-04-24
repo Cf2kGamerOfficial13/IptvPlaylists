@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTM3U
-
+#EXTINF:-NICK JR.-EAST
+https://v12.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=Jew5MjchHv-AuGU0N_yYUA&expires=1777065408&user_id=RmxFTjBpUWJVZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
 #EXTINF:-1,NBA TV USA
 https://v14.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=h5HvitHVEXRLhzAhv32Cjw&expires=1777064123&user_id=RmxFTjBpUWJVZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
 #EXTINF:-1,ANIFLIX
