@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1,NICKELODEON USA - EAST FEED
-https://v18.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=gTS4e4zAfK8coSuKx2B4gA&expires=1777068766&user_id=RmxFTjBpUWJVZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
+#EXTM3U
+
 #EXTINF:-1,AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8//Plex_AMCPresents/216bee0d-1060-4ea2-b595-e6ebabde2d1c/2.m3u8VZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
-#EXTINF:-1,NICK JR.-EAST
-https://v12.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=Jew5MjchHv-AuGU0N_yYUA&expires=1777065408&user_id=RmxFTjBpUWJVZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
-#EXTINF:-1,NBA TV USA
-https://v14.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=h5HvitHVEXRLhzAhv32Cjw&expires=1777064123&user_id=RmxFTjBpUWJVZWxST0hESTZWcVpsQjZEVjJWbWg4bFFUZUtUM21aeQ==
-#EXTINF:-1,ANIFLIX
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8//Plex_AMCPresents/216bee0d-1060-4ea2-b595-e6ebabde2d1c/2.m3u8
+#EXTINF:-1,ANIME
 https://8846385a.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ3J1bmNoeXJvbGxfSExT/e0fcd9dd-afa7-45e4-badf-cd2de73eef75/0.m3u8
 #EXTINF:-1,CrunchyRoll
 https://8846385a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ3J1bmNoeXJvbGxfSExT/playlist.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8
+#EXTINF:-1,TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 #EXTINF:-1,NBA
 https://lobefaqelo649.s3.us-east-1.amazonaws.com/btsport_240p30.m3u8
 #EXTINF:-1,A2Z
@@ -35,7 +31,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1,GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,INCTV
+#EXTINF:-1,INCTV (720p) [Geo-blocked]
 http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1,Vegas Life TV
 https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
@@ -45,7 +41,7 @@ https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1,CLTV 36 (720p) [Not 24/7]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1,Bilyonario News Channel (720p)
+#EXTINF:-1,Bilyonario News Channel (720p) [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
